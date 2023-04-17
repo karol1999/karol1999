@@ -24,10 +24,9 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 | Angular | <img src="https://user-images.githubusercontent.com/45312091/232589044-cfb2b8ac-729c-49ae-98d4-10d360d6f521.svg" height="40" width="40" /> |
 | Matlab | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" /> |
 | Ubuntu | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
-| Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
-| Jenkins | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
-| Rally | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
-| Bitbucket | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
+| Docker | <img src="https://user-images.githubusercontent.com/45312091/232589322-11ab803c-61ad-4fd0-99db-3313b6fd1ea2.svg" height="40" width="40" /> |
+| Jenkins | <img src="https://user-images.githubusercontent.com/45312091/232589472-2226faad-d76f-47a7-bd9f-56c1f4bc93cc.svg" height="40" width="40" /> |
+| Bitbucket | <img src="https://user-images.githubusercontent.com/45312091/232589774-1d550160-9c17-44a5-8a01-e02d42247bb9.svg" height="40" width="40" /> |
 
 
 | Diploma thesis |
