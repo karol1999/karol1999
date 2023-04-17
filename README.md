@@ -36,7 +36,7 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 
           
 - 🔭 I’m currently working on https://github.com/karol1999/OpenX-recruitment-assignment
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently developing various applications/problems in Java to get proficient in that technology. Learning Spring and Spring Boot as well
 - 📫 How to reach me: <a href = "mailto:kmat962@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/karol-matoga-b69868170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
