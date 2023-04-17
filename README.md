@@ -37,14 +37,14 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
           
 - 🔭 I’m currently working on https://github.com/kubasn/browser-based-coding-environment 
 - 🌱 I’m currently learning JAVA
-- 📫 How to reach me: <a href = "mailto:sosinkuba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jakub-sosin-6a3866242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 📫 How to reach me: <a href = "mailto:kmat962@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/karol-matoga-b69868170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
 <div align="center">
-  <a href="https://github.com/kubasn">
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=kubasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubasn&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/karol1999">
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=karol1999n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karol1999&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-[![Kuba's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kubasn&&theme=xcode)](https://github.com/kubasn)
+[![Karol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=karol1999&&theme=xcode)](https://github.com/karol1999)
