@@ -1,6 +1,6 @@
 ![logo1](https://user-images.githubusercontent.com/45312091/232583260-8e4cf6e7-4653-4a52-b02e-c49a7744cc83.gif)
 
-Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languages and frameworks like Typescript and React.
+Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languages and frameworks like Spring and Spring Boot. Interested in solving problems.
 
 ## Skills
 
