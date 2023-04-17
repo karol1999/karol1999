@@ -6,7 +6,7 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 
 | Technology |  |
 | :---: | :---: |
-| Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/> |
+| Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/> |
 | Maven | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" /> |
 | Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" /> |
 | Intellij IDEA | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" /> |
