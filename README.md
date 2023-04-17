@@ -10,9 +10,11 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 | Maven | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" width="40" /> |
 | Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" /> |
 | Intellij IDEA | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" /> |
-| MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="40" /> |
+| MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" /> |
 | Spring | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" /> |
-| Spring Boot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" /> |
+| Spring Boot | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40" /> |
+
+
 
 ## I also worked with
 
@@ -21,13 +23,11 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 | Redux | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" />     |
 | C/C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" />    |
 | MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40" /> |
-| MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" /> |
 | Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="40" /> |
 | Firebase | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="40" /> |
 | Matlab | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" /> |
 | Ubuntu | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
 | SASS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />|
-| Styled components, Chart.js, Playwright, WebAssembly, Commander, Lerna | |
 
 | Diploma thesis |
 | :---: |
@@ -35,8 +35,8 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 
           
 - 🔭 I’m currently working on https://github.com/kubasn/browser-based-coding-environment 
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me: <a href = "mailto:sosinkuba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jakub-sosin-6a3866242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 🌱 Currently learning JAVA
+- 📫 How to reach me: <a href = "mailto:kmat962@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/karol-matoga-b69868170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
