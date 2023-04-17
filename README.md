@@ -1,18 +1,18 @@
-![logo1](https://user-images.githubusercontent.com/56204568/193336970-fab20288-6980-4a68-b223-d8d0ffebd55d.gif)
+![logo1](![welcome-logo](https://user-images.githubusercontent.com/45312091/232583260-8e4cf6e7-4653-4a52-b02e-c49a7744cc83.gif))
 
-I'm currently studying at AGH University of Science and Technology in Cracow. I enjoy learning languages and frameworks like Typescript and React.
+Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languages and frameworks like Typescript and React.
 
 ## Skills
 
 | Technology |  |
 | :---: | :---: |
-| React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/> |
-| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" /> |
-| HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" /> |
-| CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" /> |
-| Tailwind | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="40" /> |
-| TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" /> |
-| Node | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" /> |
+| Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/> |
+| Maven | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" /> |
+| Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" /> |
+| Intellij IDEA | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" /> |
+| MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="40" /> |
+| Spring | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" /> |
+| Spring Boot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" /> |
 
 ## I also worked with
 
