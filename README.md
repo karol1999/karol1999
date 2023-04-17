@@ -10,7 +10,7 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 | Maven | <img src="https://user-images.githubusercontent.com/45312091/232590112-252a2e00-38f3-41ec-97ce-3d18b9ac8b96.svg" height="40" width="40" /> |
 | Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" /> |
 | Intellij IDEA | <img src="https://user-images.githubusercontent.com/45312091/232590274-2a9f14a2-faa5-4a21-8087-481c0635926c.svg" height="40" width="40" /> |
-| MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="40" /> |
+| MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" /> |
 | Spring | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40" /> |
 | Spring Boot | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40" /> |
 
