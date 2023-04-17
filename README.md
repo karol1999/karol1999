@@ -32,7 +32,7 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 
 | Diploma thesis |
 | :---: |
-|  <a href="https://github.com/karol1999/praca-inzynierska-engineer-thesis"> Software metrics applied to plagiarism detection of program code / Metryki oprogramowania w zastosowaniu do określenia </a>   |
+|  <a href="https://github.com/karol1999/praca-inzynierska-engineer-thesis"> Software metrics applied to plagiarism detection of program code / Metryki oprogramowania w zastosowaniu do określenia samodzielności pracy programistycznej </a>   |
 
           
 - 🔭 I’m currently working on https://github.com/karol1999/OpenX-recruitment-assignment
