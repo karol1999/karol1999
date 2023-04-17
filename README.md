@@ -35,7 +35,7 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 |  <a href="https://github.com/kubasn/praca-inzynierska-engineer-thesis-"> Statistical analysis of real estate sales listings using web scraping techniques / Statystyczna analiza ofert sprzedaży nieruchomości z wykorzystaniem techniki web scraping </a>   |
 
           
-- 🔭 I’m currently working on https://github.com/kubasn/browser-based-coding-environment 
+- 🔭 I’m currently working on https://github.com/karol1999/OpenX-recruitment-assignment
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me: <a href = "mailto:kmat962@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/karol-matoga-b69868170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
