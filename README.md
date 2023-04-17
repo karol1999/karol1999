@@ -32,7 +32,7 @@ Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languag
 
 | Diploma thesis |
 | :---: |
-|  <a href="https://github.com/kubasn/praca-inzynierska-engineer-thesis-"> Statistical analysis of real estate sales listings using web scraping techniques / Statystyczna analiza ofert sprzedaży nieruchomości z wykorzystaniem techniki web scraping </a>   |
+|  <a href="https://github.com/karol1999/praca-inzynierska-engineer-thesis"> Software metrics applied to plagiarism detection of program code / Metryki oprogramowania w zastosowaniu do określenia </a>   |
 
           
 - 🔭 I’m currently working on https://github.com/karol1999/OpenX-recruitment-assignment
