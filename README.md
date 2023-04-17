@@ -1,4 +1,4 @@
-![logo1](![welcome-logo](https://user-images.githubusercontent.com/45312091/232583260-8e4cf6e7-4653-4a52-b02e-c49a7744cc83.gif))
+![logo1](![welcome-logo](https://user-images.githubusercontent.com/45312091/232583260-8e4cf6e7-4653-4a52-b02e-c49a7744cc83.gif)
 
 Applied Computer Science graduate at AGH UST in Cracow. I enjoy learning languages and frameworks like Typescript and React.
 
