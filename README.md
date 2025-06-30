@@ -3,11 +3,11 @@
 Hello, I’m Karol—a **Software Engineer** whose passions center mainly on **Backend** systems and **DevOps**.
 
 ## 💻 Professional Experience
-- **Global Air Bookings Provider**  
+- **Global Air Bookings Provider (Sabre)**  
   • Developed new features, resolved critical bugs, and enhanced code quality for an application that compared Rally Software and Bitbucket data to evaluate iteration status. 
-- **International Gaming Company**  
+- **International Gaming Company (Novomatic Technologies)**  
   • Built and optimized slot-game features using a custom Java engine, fixed bugs and led code-improvement initiatives.
-- **Current Project**  
+- **Current Project (IBM)**  
   • Designing and implementing software-metrics metering and reporting tools where I am gaining experience in cloud development.
 
 ## 🎯 Current Focus
