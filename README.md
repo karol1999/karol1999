@@ -1,26 +1,23 @@
 # Hi there 👋
 
-I’m a **Software Engineer** with two years’ experience building scalable applications across industries. Passionate about **Backend** and **DevOps**-related topics.
+Hello, I’m Karol—a **Software Engineer** whose passions center mainly on **Backend** systems and **DevOps**.
 
 ## 💻 Professional Experience
 - **Global Air Bookings Provider**  
-  • Drove feature development, resolved critical bugs, and boosted code quality for high-traffic services.  
+  • Developed new features, resolved critical bugs, and enhanced code quality for an application that compared Rally Software and Bitbucket data to evaluate iteration status. 
 - **International Gaming Company**  
-  • Developed and optimized high-performance slot games, focusing on reliability and performance.  
+  • Built and optimized slot-game features using a custom Java engine; fixed bugs and led code-improvement initiatives.
 - **Current Project**  
-  • Designing and implementing software-metrics metering and reporting tools—diving deep into cloud-native architectures.
+  • Designing and implementing software-metrics metering and reporting tools where I am gaining experience in cloud development.
 
 ## 🎯 Current Focus
 - Building scalable backend systems with microservices  
-- Expanding cloud-development skills (AWS, Azure, GCP)  
+- Expanding cloud-development skills  
 - Implementing DevOps best practices: CI/CD, containerization, orchestration
 
 ## 🚀 Interests
-- Collaborating on innovative backend & DevOps projects  
-- Learning and experimenting with emerging technologies  
-- Contributing to open-source and engaging with tech communities  
-- Let’s build something amazing together!
+I enjoy meeting new people, and am always eager to explore new technologies. Feel free to contact me and discuss :)
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [✉️ Email](mailto:your.email@example.com)
+- [LinkedIn](http://linkedin.com/in/karolmatoga/)  
+- [✉️ Email](mailto:kmat962@gmail.com)
