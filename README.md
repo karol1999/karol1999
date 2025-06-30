@@ -6,7 +6,7 @@ Hello, I’m Karol—a **Software Engineer** whose passions center mainly on **B
 - **Global Air Bookings Provider**  
   • Developed new features, resolved critical bugs, and enhanced code quality for an application that compared Rally Software and Bitbucket data to evaluate iteration status. 
 - **International Gaming Company**  
-  • Built and optimized slot-game features using a custom Java engine; fixed bugs and led code-improvement initiatives.
+  • Built and optimized slot-game features using a custom Java engine, fixed bugs and led code-improvement initiatives.
 - **Current Project**  
   • Designing and implementing software-metrics metering and reporting tools where I am gaining experience in cloud development.
 
