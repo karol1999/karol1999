@@ -8,7 +8,7 @@ Hello, I’m Karol—a **Software Engineer** whose passions center mainly on **B
 - **International Gaming Company (Novomatic Technologies)**  
   • Built and optimized slot-game features using a custom Java engine, fixed bugs and led code-improvement initiatives.
 - **Current Project (IBM)**  
-  • Designing and implementing software-metrics metering and reporting tools where I am gaining experience in cloud development.
+  • Designing and implementing software-metrics metering and reporting tools where I am gaining experience in cloud development. Moreover I managed security responsibilities within my team.
 
 ## 🎯 Current Focus
 - Building scalable backend systems with microservices  
